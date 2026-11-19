@@ -1,0 +1,8 @@
+Coloque aqui os seus arquivos de imagem (opcional):
+
+  logo.png      -> logo da empresa (aparece no topo do menu lateral)
+  painel.jpg    -> foto do painel à direita do gráfico (no lugar da escavadeira)
+
+Formatos aceitos: .png, .jpg, .jpeg, .webp, .svg
+Sem esses arquivos, o dashboard mostra o nome da empresa (config.py) e um painel
+translúcido azul. A foto do painel fica por baixo de uma camada azul semitransparente.
